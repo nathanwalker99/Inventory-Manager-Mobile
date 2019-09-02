@@ -1,0 +1,1 @@
+export const uploadUrl = 'https://www.googleapis.com/upload/drive/v3';
